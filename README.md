@@ -3,6 +3,10 @@
 > *Tupatane. Let's find each other.*
 
 ---
+## Live Demo : https://traceke.streamlit.app/
+
+## App Snippet
+<img width="1249" height="595" alt="image" src="https://github.com/user-attachments/assets/2f87097e-d382-49aa-8d52-1f35e2116817" />
 
 ## The problem we are trying to solve
 
